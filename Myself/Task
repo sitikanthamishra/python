@@ -1,0 +1,30 @@
+Tasks
+=====
+Q1
+Write Python programs for the following:
+  [a] Check if the given integer is Prime or not
+  [b] Generate all Prime numbers upto a specified limit
+  [c] Generate all Armstrong numbers between 100 and 500
+      NOTE: The sum of the cube of the digits is equal
+            to the number itself, then, such a number
+            is called Armstrong number
+  [d] Generate a Fibonacci Series upto a specified limit
+  [e] Find the factorial of a given number.
+
+Q2
+Write a Python program to count the number of VOWELs and 
+CONSONANTS in a given string.
+
+CONSONANTS are only letters other than VOWELS.
+
+Moreover, find the percentage of VOWELS and CONSONANTS
+against the total number of characters in the string.
+
+Q3
+Write a Python program to find the roots of a Quadratic
+Equation.
+
+Refer internet for more info.
+
+
+
